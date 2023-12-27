@@ -100,7 +100,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20px;
+  margin-top: 5px;
   gap: 5px;
   padding: 10px;
   transform: translateY(20px);
